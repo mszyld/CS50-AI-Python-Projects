@@ -11,7 +11,7 @@ My projects for Harvard's CS50 AI course
 - 4a. Shopping: an AI that predicts whether online shopping customers will complete a purchase, with good sensitivity and specificity, using a nearest-neighbor classifier model.
 - 4b. Nim: an AI that teaches itself to play [Nim](https://en.wikipedia.org/wiki/Nim) through reinforcement learning.
 - 5a. Traffic: an AI that identifies with >95% accuracy which of the 43 categories matches that of a traffic sign in a photograph, by training a neural network on the [GTSRB](https://www.google.com/search?q=GTSRB) dataset.
-- 6a. Parser: in progress.
+- 6a. Parser: an AI that parses sentences and extracts noun phrases using Natural Language Toolkit package NLTK.
 - 6b. Questions: in progress.
 
 For more information on all these projects see https://cs50.harvard.edu/ai/2020/projects/
