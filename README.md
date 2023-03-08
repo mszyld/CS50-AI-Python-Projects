@@ -12,6 +12,6 @@ My projects for Harvard's CS50 AI course
 - 4b. Nim: an AI that teaches itself to play [Nim](https://en.wikipedia.org/wiki/Nim) through reinforcement learning.
 - 5a. Traffic: an AI that identifies with >95% accuracy which of the 43 categories matches that of a traffic sign in a photograph, by training a neural network on the [GTSRB](https://www.google.com/search?q=GTSRB) dataset.
 - 6a. Parser: an AI that parses sentences and extracts noun phrases using Natural Language Toolkit package NLTK.
-- 6b. Questions: in progress.
+- 6b. Questions: an AI that answers questions based both on term frequency and inverse document frequency for the words in the query.
 
 For more information on all these projects see https://cs50.harvard.edu/ai/2020/projects/
