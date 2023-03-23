@@ -15,3 +15,5 @@ My projects for Harvard's CS50 AI course
 - 6b. Questions: an AI that answers questions based both on term frequency and inverse document frequency for the words in the query.
 
 For more information on all these projects see https://cs50.harvard.edu/ai/2020/projects/
+
+<img src="CS50AI_certificate_szyld.png"  width="50%" height="50%">
